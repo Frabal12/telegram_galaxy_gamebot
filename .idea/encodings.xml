@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/api/Command.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/core/ExecThread.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/core/Keyboard.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/core/entities/Life.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/utils/Interaction.java" charset="windows-1252" />
+  </component>
+</project>
